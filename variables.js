@@ -7,15 +7,7 @@
 // Symbol (ECMAScript 6)
 // Object
 
-// Variables
+// Variables - Remember data values with name
 var message = "Hello World";
 var age = 25;
 var hasCar = true;
-
-// Comparisions
-// !==
-// ===
-// >=
-// <=
-// >
-// <
